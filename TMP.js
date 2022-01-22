@@ -1,1 +1,3 @@
-alert("Test [3]");
+function InitProgram() {
+  alert("Test [3]");
+}
