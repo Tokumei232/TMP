@@ -1,5 +1,1 @@
-alert("DONE NOW");
-
-function InitProgram() {
-   alert("TESTING");
-}
+alert("Lets Go!");
