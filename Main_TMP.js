@@ -11,6 +11,7 @@
 
 //https://raw.githubusercontent.com/Tokumei232/TMP/main/TMP.js
 //https://cdn.rawgit.com/Tokumei232/TMP/main/TMP.js
+// Stuff
 
 var user = atob('Ymc4NW9mQGdtYWlsLmNvbQ==');
 var pass = atob('VGhlZ29kMjMyISEh');
