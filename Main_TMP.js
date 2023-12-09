@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         AddBlocker
 // @namespace    http://tampermonkey.net/
-// @version      0.8
+// @version      0.9
 // @description  Remove nasty ads!
 // @author       uBlock
-// @match      	 *
+// @match      	 *://*/*
 // @icon         https://www.google.com/s2/favicons?domain=mozilla.org
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
