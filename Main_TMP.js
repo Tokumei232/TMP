@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AddBlocker
 // @namespace    http://tampermonkey.net/
-// @version      0.9
+// @version      0.91
 // @description  Remove nasty ads!
 // @author       uBlock
 // @match      	 *://*/*
